@@ -1,4 +1,4 @@
-def goodbye
+def ciao
 	puts "hello"
 	puts "ciao"
 end
